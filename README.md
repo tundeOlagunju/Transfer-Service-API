@@ -115,3 +115,4 @@ RESPONSE: HTTP 200 (OK)
 * Initial deposit lesser than 10.00
 * Non-existent account
 * Non-existent reference number
+* Possible Duplicate Transaction
