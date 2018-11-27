@@ -4,8 +4,8 @@ This is a simple **REST** based transfer service API using **Spring Boot**. This
 or balance and also transfer money from one account to another. All transactions history are saved in **MySQL** database.
 
 ## Built With 
- - Spring Boot - Spring based production ready project initializer for Stand alone Applications
- - MySql for database
+ - **Spring Boot** - Spring based production ready project initializer for Stand alone Applications
+ - **MySQL** - for database
 
 ## Steps to Setup
 
